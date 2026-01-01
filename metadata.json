@@ -1,0 +1,7 @@
+{
+  "name": "GlobalSync: Cultural Intelligence Advisor",
+  "description": "An AI-powered cross-cultural communication simulator that helps you navigate international business and social interactions with ease using real-world cultural data and Gemini-driven feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
